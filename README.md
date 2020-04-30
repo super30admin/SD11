@@ -35,5 +35,5 @@ Secondary Requirements:
 
 **Detailed Component Design**
 
-**Data Partitioning Data Partitioning**
+**Data Partitioning**
 
