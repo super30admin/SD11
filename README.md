@@ -12,15 +12,15 @@
 
 <p>Primary features: </p>
 
-<p>1. Posts, pages and groups followed by a user has to be populated on the newsfeed.</p>
-<p>2. Consider designing the newsfeed to accommodate large user base, for example, a user might follow many pages or groups or could have many friends.</p>
-<p>3. Newsfeed may not only be restricted to text, include images and videos in your design.</p>
-<p>4. Your design must be able to periodically update the newsfeed to include new posts as and when the user refreshes.</p>
+1. Posts, pages and groups followed by a user has to be populated on the newsfeed.
+2. Consider designing the newsfeed to accommodate large user base, for example, a user might follow many pages or groups or could have many friends.
+3. Newsfeed may not only be restricted to text, include images and videos in your design.
+4. Your design must be able to periodically update the newsfeed to include new posts as and when the user refreshes.
 
-<p>Secondary Requirements:</p>
+Secondary Requirements:
 
-<p>1. The design must be able to refresh instantaneously, limit the delay to be within 2s.</p>
-<p>2. A post shouldn’t take more than 5s to make it to a user’s feed assuming a new newsfeed request comes in.</p>
+1. The design must be able to refresh instantaneously, limit the delay to be within 2s.
+2. A post shouldn’t take more than 5s to make it to a user’s feed assuming a new newsfeed request comes in.
 
 **TO DO : Follow the below framework to design System. Mandatory upload of hand drawn photos of design.**
 
